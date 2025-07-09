@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Cloud Security Implementation | CodTech Internship Task-4</h1>
+<h1 align="center">🔐 Cloud Security Implementation</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-IAM-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -68,11 +68,7 @@ This repository documents the successful implementation of **IAM policies**, **s
 - Server-Side Encryption (SSE-S3)
 - AWS Console Proficiency
 
----
 
-## 📜 Internship Certificate
-
-🎓 Certificate of completion will be awarded by **CodTech IT Solutions** at the end of the internship.
 
 ---
 
